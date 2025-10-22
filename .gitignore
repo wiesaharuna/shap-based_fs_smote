@@ -17,7 +17,6 @@ Thumbs.db
 # === Data and Results ===
 data/*.csv
 results/
-outputs/
 logs/
 
 # === Temporary files ===
@@ -33,3 +32,7 @@ logs/
 # === Keep data folder structure ===
 # (let the 'data' folder remain but ignore the files inside)
 !data/.gitkeep
+
+# Results – keep folder via .gitkeep; ignore large artifacts by default
+results/*
+!results/.gitkeep
