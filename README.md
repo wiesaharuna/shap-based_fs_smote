@@ -83,7 +83,7 @@ Prepare the data
 Download the dataset from Kaggle: https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
 
 
-Place your files under data/, for example "cicids2017_sampled_50_.csv"
+Place your files under data/, for example, "cicids2017_sampled_50_.csv"
 
-We don’t have data yet; so, the data/ folder is kept in Git via data/.gitkeep.
+Due to the size issue, we haven’t uploaded the data yet; therefore, the data folder is kept in Git via data/.gitkeep.
 
